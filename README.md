@@ -25,6 +25,16 @@ Integra tecnologías como **OpenCV**, **MediaPipe**, **face_recognition** y una 
 
 ---
 
+## 🎬 Video demostrativo
+
+¿Quieres ver cómo funciona en acción?  
+👉 **Mira el video en YouTube:**  
+[![Ver en YouTube](https://img.shields.io/badge/YouTube%20-%20Ver%20demo%20🔴-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=HK5SWp8QyBU&authuser=1)
+
+También puedes hacer clic directamente en el enlace:  
+🔗 [https://www.youtube.com/watch?v=HK5SWp8QyBU&authuser=1](https://www.youtube.com/watch?v=HK5SWp8QyBU&authuser=1)
+
+
 ## 🧱 Instalación
 
 ### 1️⃣ Clonar el repositorio
